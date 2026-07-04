@@ -1,0 +1,2 @@
+# adbf3ffa44aadf54-digital-marketing-task-automat
+digital marketing professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Digital Marketing Task Automation And Delegation — fully co
